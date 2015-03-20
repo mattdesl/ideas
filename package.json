@@ -1,0 +1,26 @@
+{
+  "name": "ideas",
+  "version": "1.0.0",
+  "description": "brainstorming and ideas for modules/projects",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/ideas.git"
+  },
+  "homepage": "https://github.com/mattdesl/ideas",
+  "bugs": {
+    "url": "https://github.com/mattdesl/ideas/issues"
+  }
+}
